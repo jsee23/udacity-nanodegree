@@ -1,0 +1,5 @@
+[requires]
+uWebSockets/0.13.0@jsee23/stable
+
+[generators]
+cmake
